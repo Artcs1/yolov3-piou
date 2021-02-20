@@ -1,0 +1,4 @@
+classes=20
+train=../voc2007/train2007.txt
+valid=../voc2007/val2007.txt
+names=data/voc.names
